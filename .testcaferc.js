@@ -1,3 +1,4 @@
 module.exports = {
-    "src": "tests"
+    "src": "tests",
+    "nativeAutomation": true
 }
