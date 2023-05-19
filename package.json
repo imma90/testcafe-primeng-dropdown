@@ -1,0 +1,10 @@
+{
+  "name": "testcafe-primeng-dropdown",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Imma Six <isix@techgroup.ch>",
+  "license": "MIT",
+  "devDependencies": {
+    "testcafe": "^2.6.0"
+  }
+}
