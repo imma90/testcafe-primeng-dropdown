@@ -6,3 +6,6 @@ To run the tests:
 ```
 npx testcafe chrome
 ```
+## native automation
+
+In [native automation mode](https://testcafe.io/documentation/404237/guides/intermediate-guides/native-automation-mode), the dropdowns work without problems, no matter the primeng version. In `.testcaferc.js`, edit the value of `"nativeAutomation"` and run the tests with the command above to see the difference.
